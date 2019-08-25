@@ -1,5 +1,7 @@
 # Klikacz obrazkowy
 
+---
+
 ## opis
 lorem
 
